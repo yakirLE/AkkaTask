@@ -1,0 +1,6 @@
+/project/**
+/target/**
+/images/*
+.bsp
+.idea
+/src/main/scala/playground*
